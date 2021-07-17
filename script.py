@@ -2,9 +2,9 @@ class script(object):
 
     START_TEXT = """<b>Hai ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
+I'm A simple link downloader bot With Permanent Thumbnail Support💯.
 
-Please send me any Zee5 link, I can upload it to telegram as File/Video.
+Please send me any link, I can upload it to telegram as File/Video.
 
 Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
 
@@ -21,9 +21,9 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Tellyfun4u
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
@@ -41,7 +41,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @contactHEXbot"
+    UPGRADE_TEXT = "PING at @sahaynitin58"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -55,11 +55,11 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@tellyfun4u\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TroJanzHEX</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @Tellyfun4u</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
